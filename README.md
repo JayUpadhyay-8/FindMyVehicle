@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 Having all the prerequisites,Simply clone this repo in a directory of your local pc
-git clone https://github.com/Prit27/FindMyVehicle.git 
+git clone https://github.com/JayUpadhyay-8/FindMyVehicle
 
 	Fire up your IDE
 	Configure Java Runtime
